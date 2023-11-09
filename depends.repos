@@ -1,0 +1,5 @@
+repositories:
+  CoRE-rviz-plugins:
+    type: git
+    url: https://github.com/StrayedCats/CoRE-rviz-plugins
+    version: humble
